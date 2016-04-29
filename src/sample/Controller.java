@@ -19,6 +19,8 @@ public class Controller implements Initializable {
     @FXML
     TableView myTable;
 
+    //TODO add here something
+
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         setTitle();
